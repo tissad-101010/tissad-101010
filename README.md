@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+- 🌱 I’m currently learning C, C++/OOP
+- 📫 How to reach me: tissad@student.42.fr
+- 💬 Ask me about 42School
+- 😄 Pronouns: tahar
 <!--
 **tissad-101010/tissad-101010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
