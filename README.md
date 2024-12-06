@@ -1,8 +1,6 @@
 ## Hi there 👋
 - 🌱 I’m currently learning C, C++/OOP
-- 📫 How to reach me: tissad@student.42.fr
-- 💬 Ask me about 42School
-- 😄 Pronouns: tahar
+
 
 
 <a href="#">
@@ -33,7 +31,9 @@
 **tissad-101010/tissad-101010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+- 📫 How to reach me: tissad@student.42.fr
+- 💬 Ask me about 42School
+- 😄 Pronouns: tahar
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
