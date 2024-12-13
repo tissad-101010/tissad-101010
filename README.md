@@ -15,6 +15,9 @@
   <img align="left" height=200  src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=tissad-101010&theme=tokyonight"/>
 </a>
 
+
+
+
 <!--
 
 <img align="left" height=97 src="https://github-profile-trophy.vercel.app/?username=tissad-101010&theme=merko&no-frame=true&title=Stars,Followers,Commits&column=-1"/>
@@ -25,7 +28,7 @@
 
 <p align="center">
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/_blocage/count.svg" />
+  <img src="https://profile-counter.glitch.m/tissad/count.svg" />
 </p>
 
 **tissad-101010/tissad-101010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
