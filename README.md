@@ -8,8 +8,10 @@
 </a>
 
 <a href="#">
-  <img align="center" height=200 width=100% src="https://github-readme-stats.vercel.app/api/top-langs/?username=tissad-101010&theme=tokyonight&hide=html,scss,css&langs_count=8"/>
+  <img align="center" height=200 width=100% src="https://github-readme-stats.vercel.app/api/top-langs/?username=tissad-101010&theme=tokyonight"/>
+  
 </a>
+
 
 <a href="#">
   <img align="center" height=200 width=100% src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=tissad-101010&theme=tokyonight"/>
@@ -29,9 +31,7 @@
 
 <img align="left" height=97 src="https://github-profile-trophy.vercel.app/?username=tissad-101010&theme=merko&no-frame=true&title=Stars,Followers,Commits&column=-1"/>
 
-<a href="#">
-  <img  align="left" height=200 src="https://my-stats-43gk.vercel.app/api/top-langs/?username=tissad-101010&hide=html,scss,css&langs_count=8&layout=compact&theme=tokyonight" />
-</a>
+
 
 
 
