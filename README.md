@@ -8,12 +8,14 @@
 </a>
 
 <a href="#">
-  <img align="center" height=200 width=100% src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=tissad-101010&theme=tokyonight"/>
+  <img align="center" height=200 width=100% src="https://github-readme-stats.vercel.app/api/top-langs/?username=tissad-101010&theme=tokyonight&hide=html,scss,css&langs_count=8"/>
 </a>
 
 <a href="#">
-  <img align="center" height=200 width=100% src="https://github-readme-stats.vercel.app/api/top-langs/?username=tissad-101010&theme=tokyonight&hide=html,scss,css&langs_count=8"/>
+  <img align="center" height=200 width=100% src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=tissad-101010&theme=tokyonight"/>
 </a>
+
+
 
 
 
