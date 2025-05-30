@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 🌱 I’m currently learning C, C++/OOP
+- 🌱 I’m currently learning C, C++/OOP, network and web server
 
 
 
