@@ -7,10 +7,10 @@
   <img align="center" height=200 width=100% src="https://my-stats-43gk.vercel.app/api?username=tissad-101010&show_icons=true&theme=tokyonight&hide=contribs,issues&show=discussions_answered&rank_icon=github&include_all_commits=true" />
 </a>
 
-<a href="#">
+<!-- <a href="#">
   <img align="center" height=200 width=100% src="https://github-readme-stats.vercel.app/api/top-langs/?username=tissad-101010&theme=tokyonight"/>
   
-</a>
+</a> -->
 
 
 <a href="#">
