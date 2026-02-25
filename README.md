@@ -20,6 +20,9 @@
 
 
 
+  <div id="count">
+    <img src="https://komarev.com/ghpvc/?username=tissad-101010&style=flat-square&color=blue" alt="count of view on profil github"/>
+  </div>
 
 
 
