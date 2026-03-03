@@ -42,7 +42,7 @@
 
 <!-- end of about me -->
 
-# Languages and Tools
+## Languages and Tools
 
 <table align="center">
   <thead>
@@ -69,6 +69,29 @@
     </tr>
   </tbody>
 </table>
+<table align="center">
+  <thead>
+    <tr>
+      <th style="text-align: center;">Tools</th>
+      <th style="text-align: center;"> Monitoring</th>
+    </tr>
+  </thead>
+  <tr>
+    <td valign="top">
+      <img src="https://skillicons.dev/icons?i=linux" alt="Linux" title="Linux">
+      <img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git">
+      <img src="https://skillicons.dev/icons?i=github" alt="Github" title="Github and Copilot">
+      <img src="https://skillicons.dev/icons?i=docker" alt="Docker" title="Docker">
+      <img src="https://skillicons.dev/icons?i=nginx" alt="Nginx" title="Nginx">
+      <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" title="VSCode">
+    </td>
+    <td valign="top">
+      <img src="https://skillicons.dev/icons?i=grafana" alt="Grafana" title="Grafana">
+    </td>
+  </tr>
+</table>
+
+
 
 ## Stats
 
