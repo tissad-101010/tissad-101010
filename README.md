@@ -38,8 +38,39 @@
 
   > [!IMPORTANT]
   > Full-stack developer, software engineer, and lifelong learner. Building scalable and user-friendly web applications. Passionate about using modern technologies to solve real-world problems and create impactful solutions. Currently seeking my first professional experience
+---
 
+<!-- end of about me -->
 
+# Languages and Tools
+
+<table align="center">
+  <thead>
+    <tr>
+      <th style="text-align: center;">Languages</th>
+      <th style="text-align: center;">Frameworks</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td valign="top">
+        <img src="https://skillicons.dev/icons?i=bash" alt="Bash" title="Bash"/>
+        <img src="https://skillicons.dev/icons?i=c" alt="C" title="C">
+        <img src="https://skillicons.dev/icons?i=cpp" alt="C++" title="C++">
+        <img src="https://skillicons.dev/icons?i=py" alt="Python" title="Python">
+        <img src="https://skillicons.dev/icons?i=ts" alt="Typescript" title="Typescript">
+        <img src="https://skillicons.dev/icons?i=html" alt="HTML5" title="HTML">
+        <img src="https://skillicons.dev/icons?i=css" alt="CSS3" title="CSS">
+      </td>
+      <td valign="top">
+        <img src="https://skillicons.dev/icons?i=react" alt="React" title="React">
+        <img src="https://skillicons.dev/icons?i=react&theme=light" alt="ReactNative" title="React Native">
+        <img src="https://skillicons.dev/icons?i=next&theme=light" alt="next" title="next">
+    </tr>
+  </tbody>
+</table>
+
+## Stats
 
 <a href="#">
   <img align="center" height=200 width=100% src="https://my-stats-43gk.vercel.app/api?username=tissad-101010&show_icons=true&theme=tokyonight&hide=contribs,issues&show=discussions_answered&rank_icon=github&include_all_commits=true" />
