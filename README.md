@@ -1,17 +1,43 @@
-## Hi there 
+
+<!-- Header -->
 <div align="center">
+
   <a href="https://github.com/tissad-101010/tissad-101010/tree/main">
     <img src="https://readme-typing-svg.herokuapp.com?font=sans+Serif+&pause=1000&color=1ECDC2&center=true&multiline=true&repeat=false&width=550&height=150&lines=Neo;Student+%40+42+Paris;Searching+for+my+first+work+experience" alt="Typing SVG" />
   </a>
 
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <div id="count">
+          <img src="https://komarev.com/ghpvc/?username=tissad-101010&style=flat-square&color=1ECDC2" alt="count of view on profil github"/>
+        </div>
+      </td>
+      <td align="center" width="33%">
+        <a href="https://www.linkedin.com/in/tahar-issad-00b96836a/">
+          <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="tissad" width=70>
+        </a>
+      </td>
+      <td align="center" width="33%">
+        <a href="https://profile.intra.42.fr/users/tissad">
+          <img src="https://img.shields.io/badge/tissad-1ECDC2?style=for-the-badge&logo=42&logoColor=white" alt="42 tissad" width=70>
+        </a>
+      </td>
+    </tr>
+  </table>
 
-  <div id="count">
-    <img src="https://komarev.com/ghpvc/?username=tissad-101010&style=flat-square&color=1ECDC2" alt="count of view on profil github"/>
-  </div>
 </div>
 
+---
+<!-- end of header -->
 
-##
+<!-- about me -->
+## About me
+  - I’m learning at [42_Paris](https://42.fr/en/homepage/)
+  - How to reach me: [tissad](mailto:issad.tahar@icloud.com)
+
+  > [!IMPORTANT]
+  > Full-stack developer, software engineer, and lifelong learner. Building scalable and user-friendly web applications. Passionate about using modern technologies to solve real-world problems and create impactful solutions. Currently seeking my first professional experience
 
 
 
@@ -19,10 +45,8 @@
   <img align="center" height=200 width=100% src="https://my-stats-43gk.vercel.app/api?username=tissad-101010&show_icons=true&theme=tokyonight&hide=contribs,issues&show=discussions_answered&rank_icon=github&include_all_commits=true" />
 </a>
 
-<!-- <a href="#">
-  <img align="center" height=200 width=100% src="https://github-readme-stats.vercel.app/api/top-langs/?username=tissad-101010&theme=tokyonight"/>
-  
-</a> -->
+
+##
 
 
 <a href="#">
@@ -32,38 +56,7 @@
 
 ##
 
+<div align="center">
+  <a href="https://github.com/tissad-101010/tissad-101010/tree/main"><img src="tissad_contribution.svg"></a>
 
-
-
-<a href=#><img src="tissad_contribution.svg"></a>
-
-
-
-<!--
-
-<img align="left" height=97 src="https://github-profile-trophy.vercel.app/?username=tissad-101010&theme=merko&no-frame=true&title=Stars,Followers,Commits&column=-1"/>
-
-
-
-
-
-<p align="center">
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.m/tissad/count.svg" />
-</p>
-
-**tissad-101010/tissad-101010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-- 📫 How to reach me: tissad@student.42.fr
-- 💬 Ask me about 42School
-- 😄 Pronouns: tahar
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
