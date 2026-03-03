@@ -1,6 +1,6 @@
 ## Hi there 
 <div align="center">
-  <a href="https://github.com/tissad-101010/tissad-101010/README.md">
+  <a href="https://github.com/tissad-101010/tissad-101010/tree/main">
     <img src="https://readme-typing-svg.herokuapp.com?font=sans+Serif+&pause=1000&color=1ECDC2&center=true&multiline=true&repeat=false&width=550&height=150&lines=Neo;Student+%40+42+Paris;Searching+for+my+first+work+experience" alt="Typing SVG" />
   </a>
 
