@@ -1,5 +1,17 @@
-## Hi there 👋
-- 🌱 I’m currently learning C, C++/OOP, network and web server
+## Hi there 
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=sans+Serif+&pause=1000&color=1ECDC2&center=true&multiline=true&repeat=false&width=550&height=150&lines=Neo;Student+%40+42+Paris;Searching+for+my+first+work+experience" alt="Typing SVG" />
+  </a>
+
+
+  <div id="count">
+    <img src="https://komarev.com/ghpvc/?username=tissad-101010&style=flat-square&color=1ECDC2" alt="count of view on profil github"/>
+  </div>
+</div>
+
+
+##
 
 
 
@@ -18,11 +30,8 @@
 </a>
 
 
+##
 
-
-  <div id="count">
-    <img src="https://komarev.com/ghpvc/?username=tissad-101010&style=flat-square&color=blue" alt="count of view on profil github"/>
-  </div>
 
 
 
