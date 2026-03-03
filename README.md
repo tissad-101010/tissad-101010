@@ -8,19 +8,24 @@
 
   <table>
     <tr>
-      <td align="center" width="33%">
+      <td align="center" width="25%">
         <div id="count">
           <img src="https://komarev.com/ghpvc/?username=tissad-101010&style=flat-square&color=1ECDC2" alt="count of view on profil github"/>
         </div>
       </td>
-      <td align="center" width="33%">
+      <td align="center" width="25%">
         <a href="https://www.linkedin.com/in/tahar-issad-00b96836a/">
-          <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="tissad" width=70>
+          <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="tissad" width=70 height=20>
         </a>
       </td>
-      <td align="center" width="33%">
+      <td align="center" width="25%">
         <a href="https://profile.intra.42.fr/users/tissad">
-          <img src="https://img.shields.io/badge/tissad-1ECDC2?style=for-the-badge&logo=42&logoColor=white" alt="42 tissad" width=70>
+          <img src="https://img.shields.io/badge/tissad-1ECDC2?style=for-the-badge&logo=42&logoColor=white" alt="42 tissad" width=70 height=20>
+        </a>
+      </td>
+      <td align="center" width="25%">
+        <a href="https://tissad-101010.github.io/portfolio/">
+          <img src="https://img.shields.io/badge/portfolio-1ECDC2?style=for-the-badge" alt="42 tissad" width=70 height=20>
         </a>
       </td>
     </tr>
