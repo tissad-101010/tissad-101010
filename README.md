@@ -69,7 +69,7 @@
       </td>
       <td valign="top">
         <img src="https://skillicons.dev/icons?i=react" alt="React" title="React">
-        <img src="https://skillicons.dev/icons?i=react&theme=light" alt="ReactNative" title="React Native">
+        <!-- <img src="https://skillicons.dev/icons?i=react&theme=light" alt="ReactNative" title="React Native"> -->
         <img src="https://skillicons.dev/icons?i=next&theme=light" alt="next" title="next">
     </tr>
   </tbody>
